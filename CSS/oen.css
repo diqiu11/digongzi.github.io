@@ -1,0 +1,201 @@
+@charset "utf-8";
+/* CSS Document */
+/* 初始化 */
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td { margin:0; padding:0; }
+body, button, input, select, textarea { font:12px/1.5tahoma, arial, \5b8b\4f53; } 
+h1, h2, h3, h4, h5, h6{ font-size:100%; } 
+address, cite, dfn, em, var { font-style:normal; } 
+code, kbd, pre, samp { font-family:couriernew, courier, monospace; } 
+small{ font-size:12px; } 
+ul, ol { list-style:none; } 
+a { text-decoration:none;} 
+a:hover { text-decoration:underline; } 
+sup { vertical-align:text-top; } 
+sub{ vertical-align:text-bottom; } 
+legend { color:#000; } 
+fieldset, img { border:0; } 
+button, input, select, textarea { font-size:100%; } 
+table { border-collapse:collapse; border-spacing:0; }
+
+/*main is css*/
+.main { 
+	width:1250px; height:320px;
+	}
+
+/*main_left*/
+.main_left { 
+	width:250px; height:320px; 
+	background-color:#CCC;
+	}
+.main_left ul{ 
+	width:250px; height:320px;
+	}
+.main_left ul li{ 
+	text-align:center; margin-left:0px; 
+	width:250px; height:53.3px;
+	}
+.main_left ul li a{ 
+	color:#000; text-align:center; 
+	width:250px; height:53.3px; 
+	line-height:53.3px; position:absolute;
+	display:block;
+	}
+.main_left ul li a:hover { 
+	text-decoration:none; 
+	}
+ul .active{ 
+	color:#000; background-color:#FFF;
+	}
+
+/*main_right*/
+.main_right{ 
+	height:300px;  width:1000px;
+	position:absolute; top:270px; 
+	float:left;
+	}
+.inmain{ 
+	height:300px; width:900px; 
+	position:absolute; 
+	top:310px; right:120px;
+	}
+.onmain{ 
+	height:300px; width:900px; 
+	position:absolute; 
+	top:300px; right:100px;
+	}
+.pic1{ 
+	width:200px; height:300px; 
+	float:left; margin-left:20px;
+	}
+.min{ 
+	width:150px; height:50px; 
+	margin-left:25px; border-collapse:5px; 
+	margin-top:0px;
+	}
+.branSalary{
+	width:200px; height:22px;
+	display:block; text-align:center;
+	}
+.Salary{
+	width:200px; height:22px;
+	display:block; text-align:center;
+	color:#F40;
+	}
+
+/*login is css*/
+.login{ 
+	position:absolute; width:220px; height:20px; 
+	top:290px; right:20px; z-index:9999px; 
+	display:inline; 
+	}
+.login a{ 
+	font-size:12px; 
+	color:#666;
+	}
+.login a:hover{
+	text-decoration:none; 
+	color:#F00;
+	}
+.function{ 
+	background-color:#FFF; 
+	color:#000;
+	}
+
+/*footer is css*/
+#footer{padding:50px 0;}
+
+#footer .title{
+	margin:0 0 30px 0; padding:0 0 8px 0; 
+	border-bottom:1px solid; font-size:16px; 
+	text-transform:uppercase;
+	}
+#footer .linklist li{
+	margin-bottom:15px;
+	}
+#footer .linklist li:last-child{
+	margin-bottom:0;
+	}
+
+#footer .smallfont{
+	font-size:.8rem; margin:0;
+	}
+
+#footer input, #footer button{border:none;}
+#footer input{
+	display:block; 
+	width:100%; padding:8px;
+	}
+#footer button{
+	padding:6px 12px 8px; font-weight:bold; 
+	text-transform:uppercase; cursor:pointer;
+	}
+
+.clear, .group{display:block;}
+.clear::before, .clear::after, .group::before, .group::after{display:table; content:"";}
+.clear, .clear::after, .group, .group::after{clear:both;}
+.one_quarter, .two_quarter, .footer_main{
+	display:inline-block; float:left; margin:0 0 0 3.06748466257669%; 
+	list-style:none; box-sizing:border-box;
+	}
+.one_quarter{width:22.69938650306748%;}
+.footer_main{ width:40%}
+.wenzi{
+	text-align:left; margin-top:100px; 
+	width:100%; height:100px; 
+	display:block;
+	}
+.row5{
+	color:#888888; 
+	background-color:#232323; 
+	border-color:#8ABA56;
+	}
+.one_quarter li a{
+	color:#CCC;
+	}
+.is_long{
+	width:290px; height:200px; 
+	margin-top:30px;
+	}
+
+
+div .kindle_detail
+{
+	 font: 12px/1.5 arial,"\65b0\5b8b\4f53";
+	 padding:30px 25px 2px 25px;	 
+	 float:left;
+	 width:18%;
+}
+div .img_ 
+{
+	padding:0px 25px 2px 25px;
+	width:50px;
+	height:50px;
+}
+div .kindlet_cente
+{
+	clear:both;
+}
+div .kindlet_top
+{
+	font: 18px;
+}
+.translate{
+	width:800px; height:250px;
+	overflow:auto; 
+	} 
+.kindle_bot{
+	width:800px; height:40PX;
+	margin-top:3px;
+	}
+.detail_bot{
+	width:230px; height:40px;
+	margin-left:20px; float:left;
+	line-height:20px;
+	}
+.bot_bu{
+	width:130px; height:35px;
+	line-height:25px; background-color:#F40;
+	color:#FFF; margin:0 auto; text-align:center; 
+	margin-left:30px; margin-top:3px;
+	border-radius:3px;
+	border-color:#F40;}
