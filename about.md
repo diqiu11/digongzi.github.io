@@ -1,14 +1,12 @@
 ---
 layout: blog
-title: 关于LiberXue
-description: "关于LiberXue博客角落自述"
+title: 关于嫡公子
+description: "关于嫡公子博客角落自述"
 data: 2017-08-05 09:19:11
 tags: 
-- LiberXue
+- 嫡公子
 - 简述
 - 关于
-- Liber
-- Xue
 - 坐井观天阔
 redirect_from:
   - /about/
@@ -25,28 +23,17 @@ redirect_from:
 
 博客图片使用七牛云加速
 
-##  LiberXue  曾用名013
- 
-### 曾用名013简述
- 
- 
-之前五年间一直使用013这个网名好多朋友问什么是？
 
-013不就是十三吗 装呗
  
-其实很简单在86版西游记中十三集开始悟空取经上路
+### 嫡公子简述
  
-还有一个原因2009年9月13日我在北京只剩下6块钱活三个月时间...
+#### 嫡注释
  
-### LiberXue简述
+同我名字谐音 ``狄`` 
  
-#### Liber注释
+#### 公子注释
  
-同我名字谐音 ``Liber`` 英文翻译过来：自由
- 
-#### Xue注释
- 
-`Xue` 就是拼音 ...我名字最后一个字(⊙ω⊙)
+写明我是个男的...
 
 ## 想做一名全栈开发
 
@@ -54,40 +41,40 @@ redirect_from:
 
 ### 使用语言
 
-``c# ``|``lua``| ``c++``|
+``c ``|``python``| ``c++``|
  
- ``swift`` |``JavaScript`` |``PHP``|
+ ``java`` |``JavaScript`` |``shell``|
   
-  ``Python`` |``Java`` |``GO``|
-  ``perl``|``shell``|
+
  
 
- 目前主攻``GO``
+ 目前主攻``c``
   
 ### 个人爱好
 
- 热衷于``路由器``研究和``网络安全``...
+ 热衷于``计算机科学``研究和``信息安全``...
  
 ### 业余时间
 
-- 非越狱环境下iOS应用逆向研究
-- web安全
-- freebsd
-- ros路由器
-- 防火墙
+- 数学学习
+- 网络安全
+- 算法
+- 知乎
+阅读
+- 真爱历史
 
 ### 个人习惯
  
 不喜欢被打扰，也不习惯打扰别人
  
-「所以我不用评论」，社交软件基本很少用，如果您对我的blog有疑问，请发送[Email](mailto:liberxue@gmail.com) 联系我。
+「所以我不用评论」，社交软件基本很少用，有空就喜欢抱着Kindle看历史。
  
 这个世界太热闹了，也言语太“自由” 需要`面壁者`也需要`独立思考`和`独立学习生活者`和`独立解决问题者`
  
  
 # 第一篇博客
  
-作为网站的第一篇博客，并没有太多事情要写
+声明博客仅仅只是作为一个学习生活的记录
 
  
 ## 主要谈三个方面
@@ -144,8 +131,6 @@ redirect_from:
  
 博客记录我的生活。
 
-该博客创建于 2010 年 3 月，主要为个人的网络日志，在线记录生活、工作、情感和游玩的事儿，分享互联网动态和社会百态。2015 年 9 月 1 日起开始使用  Jekyll 主题，该主题支持 iPhone 和 iPad 等不同屏幕分辨率，响应式设计，但不支持 IE 浏览器
-
 
 
 # 权利声明
@@ -162,33 +147,16 @@ redirect_from:
  
 * 请不要原封不动一字不差的转载...个人非常鄙视这种行为百度上面这种重复内容毫无意义垃圾够了。
 
-# 个人独立开发项目
-
-ID|项 目 名 称| 开 发 语 言| 功 能 简 述| 框架| 是否上线|
-|:--------|:-------:|:-------:|:-------:|:-------:|-------:|
-1|Wi-Fidog路由器认证| PHP&mysql|上网报表分析+用户/代理商/总后台|thinkphp|是
-2|ros路由器Api认证开发|PHP&mysql|多vlan+用户/代理商/总后台|thinkphp|是
-3|智能开关餐饮系统|PHP&c#&mysql|winfrom+web微信选座点餐数据交互|无|是
-4|oa即时通讯办公系统|PHP&mysql|workerman／socket／json／APIcloud|无|是
-5|微信云客服|vc++&JavaScript&c#|微信自动回复.红包.语音.自动加好友等|无|已开源
-6|webkit/cef浏览器|cef&webkit&c#|类似腾讯视频客户端自定义flash右键|无|已开源
-7|vcdlocker硬盘锁|vc++&nasm|可以绕过腾讯管家360杀毒加密硬盘|无|已开源
-8|c/s客户端自动更新|c#|c#客户端自动更新程序+服务端生成程序|无|已开源
-9|安装打包程序|c#|自定义安装包，打包程序源代码|无|是
-10|c#交互lua|c#&adb&lua|通达oa打卡支付ar自动抢五福|无|已开源
-11|freebsd路由器|vc perl PHP ruby|dns双向加速缓存 cc流量分析|freebsd|没有
-11|Jekyll themes|html5 css3 moonjs ruby json|Jekyll|无|已开源
-
 
 
 
 #### 联系方式
-******
+
  
 你可以通过以下几种方式联系到我。
 
-* [提交Issues](https://github.com/Liberxue/liberxue.github.io/issues)
+* [提交Issues](https://github.com/diqiu11/digongzi.github.io/issues)
  
-* [发邮件](mailto:liberxue@gmail.com)
+* [发邮件](di15218143233@outlook.com)
  
-* [Twitter](https://twitter.com/liberxue).
+* [知乎](https://www.zhihu.com/people/lao-lin-36-37/activities).
