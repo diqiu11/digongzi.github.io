@@ -17,10 +17,10 @@ links:
   - name:         随想
     url:          /book
     external:     false
-  - name:         算法人生
+  - name:         计算机
     url:          /road
     external:     false
-  - name:         计算机
+  - name:         归档
     url:          /archives
     external:     false
   - name:         标签
