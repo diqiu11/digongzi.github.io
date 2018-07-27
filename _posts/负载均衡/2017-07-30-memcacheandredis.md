@@ -1,5 +1,6 @@
 ---
 layout: blog
+road: true
 banana: true
 category: 负载均衡
 title:  Redis,Memcache的区别和具体应用场景及选择
