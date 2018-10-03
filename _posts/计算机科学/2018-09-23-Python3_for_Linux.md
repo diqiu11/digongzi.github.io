@@ -1,15 +1,16 @@
 ---
 layout: blog
-book: true
+road: true
 background: blue
 background-image: http://ot1cc1u9t.bkt.clouddn.com/17-7-15/48174506.jpg
 title:  "Linux下改变Python版本"
 date:   2018-09-23 23:13:54
+category: 计算机科学
 tags:
 - Linux
 - Git
 - Python3
-category: 计算机科学
+
 
 ---
  
